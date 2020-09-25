@@ -1,6 +1,6 @@
 # My Thesis' plots
 
-In this repository you can find the R scripts to produce most of the plots of my (Thesis)["Temporary placeholder"] (a few of them where done manually with inkscape, gephi...). This would have been completely impossible without the collective mind known as stackoverflow. This is my way of giving back the community, feel free to use them whoever you like!
+In this repository you can find the R scripts to make most of the plots of my (Thesis)["Temporary placeholder"] (a few of them where done manually with inkscape, gephi...). This would have been completely impossible without the collective mind known as stackoverflow. This is my way of giving back the community, feel free to use them however you like!
 
 I like to experiment with new ways of visualizing information. Thus, you will see very different types of graphs. I am not an expert in visualization at all, but I am working on improving my skills (any advice will be wecolmed!).
 
@@ -12,7 +12,7 @@ The structure is as follows:
 
 - If the theme is modified, all scripts should be executed again to update their theme. The small script "zcript_run.R" handles that. This is obviously not portable, but it might give you an idea of how to do this.
  
-## Some examples:
+## Some examples
 
 ![Anomalies AIR](Examples/Fig_chap2_anomalies_AIR.png)
 
@@ -30,12 +30,12 @@ The structure is as follows:
 
 Many thanks to these great libraries:
 
-- ggplot2
-- cowplot
-- ggthemes
-- ggsci
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html)
+- [ggthemes](https://github.com/jrnold/ggthemes)
+- [ggsci](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html)
 
-and many others! Hopefully, I will soon be able to add some minor contributions to them.
+and many others! Hopefully, I will soon be able to add my own (minor) contributions to them.
 
 ## License
 
