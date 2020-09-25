@@ -1,6 +1,6 @@
 # My Thesis' plots
 
-In this repository you can find the R scripts to make most of the plots of my (Thesis)["Temporary placeholder"] (a few of them where done manually with inkscape, gephi...). This would have been completely impossible without the collective mind known as stackoverflow. This is my way of giving back the community, feel free to use them however you like!
+In this repository you can find the R scripts to make most of the plots of my (Thesis)[https://aaleta.github.io/thesis/index.html] (a few of them where done manually with inkscape, gephi...). This would have been completely impossible without the collective mind known as stackoverflow. This is my way of giving back the community, feel free to use them however you like!
 
 I like to experiment with new ways of visualizing information. Thus, you will see very different types of graphs. I am not an expert in visualization at all, but I am working on improving my skills (any advice will be wecolmed!).
 
